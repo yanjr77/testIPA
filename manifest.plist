@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/yanjr77/testIPA/blob/master/60%402x.png</string>
+					<string>https://github.com/yanjr77/testIPA/blob/master/57%401x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/yanjr77/testIPA/blob/master/60%403x.png</string>
+					<string>https://github.com/yanjr77/testIPA/blob/master/512%401x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tibetairlines.IAP.ios8fix</string>
+				<string>com.tibetairlines.IAP</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>智慧机场</string>
+				<string>IAP</string>
 			</dict>
 		</dict>
 	</array>
